@@ -662,6 +662,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: FrameOverlay
       objectReference: {fileID: 0}
+    - target: {fileID: 3665975487988309553, guid: 1063fe49f73d60640b990435dcc17835,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3665975487988309558, guid: 1063fe49f73d60640b990435dcc17835,
         type: 3}
       propertyPath: m_LocalPosition.x

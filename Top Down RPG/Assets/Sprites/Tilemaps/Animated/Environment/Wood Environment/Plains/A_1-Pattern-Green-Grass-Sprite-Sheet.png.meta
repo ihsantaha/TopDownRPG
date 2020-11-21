@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 0025ba5d97f75314faef8c5bf326331a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4964119857448847922
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_0
+  - first:
+      213: 1833346030934968906
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_1
+  - first:
+      213: -1451056256943450455
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_2
+  - first:
+      213: -7129228017841200786
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_3
+  - first:
+      213: 5948151457345882235
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_4
+  - first:
+      213: 8253077990382226415
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_5
+  - first:
+      213: -8016654024165963392
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_6
+  - first:
+      213: -7852050961636175688
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_7
+  - first:
+      213: -2274524742700323013
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_8
+  - first:
+      213: 5589239846679819324
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_9
+  - first:
+      213: -7052802516898820202
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_10
+  - first:
+      213: -491847358560230218
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_11
+  - first:
+      213: 8882238588758683288
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_12
+  - first:
+      213: -4407731408363310068
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_13
+  - first:
+      213: -1428215533550262075
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_14
+  - first:
+      213: -1970588032675429187
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_15
+  - first:
+      213: -4451699081181265638
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_16
+  - first:
+      213: 1479892600609209804
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_17
+  - first:
+      213: 5741699226477947739
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_18
+  - first:
+      213: 6782201605894165619
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_19
+  - first:
+      213: -430711967267625267
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_20
+  - first:
+      213: 1053540934301589319
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_21
+  - first:
+      213: 8831545134591049025
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_22
+  - first:
+      213: -8919666517329218936
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_23
+  - first:
+      213: 875326131327540315
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_24
+  - first:
+      213: -8347400701660293454
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_25
+  - first:
+      213: 461255949627946030
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_26
+  - first:
+      213: 3811631980919216543
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_27
+  - first:
+      213: -4258681937163962116
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_28
+  - first:
+      213: -8476093739758433773
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_29
+  - first:
+      213: -7681894251620937944
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_30
+  - first:
+      213: 5390735328339231389
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_31
+  - first:
+      213: -8059535193942705085
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_32
+  - first:
+      213: 6873041928886533095
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_33
+  - first:
+      213: -2870188562656603200
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_34
+  - first:
+      213: 6320634885580272940
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_35
+  - first:
+      213: 6879747062424103609
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_36
+  - first:
+      213: -406901044515560631
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_37
+  - first:
+      213: -5372508374579704600
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_38
+  - first:
+      213: 6619692648484491557
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_39
+  - first:
+      213: 6198826862348346098
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_40
+  - first:
+      213: -7712825128061883744
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_41
+  - first:
+      213: -6636506675446993437
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_42
+  - first:
+      213: 6575605752444370384
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_43
+  - first:
+      213: 347045793100978155
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_44
+  - first:
+      213: -8559530512952138410
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_45
+  - first:
+      213: -3900140741972600411
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_46
+  - first:
+      213: -229930735717751153
+    second: A_1-Pattern-Green-Grass-Sprite-Sheet_47
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7f2b4f6ec42934f8b97b710f9c31b8
+      internalID: 4964119857448847922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d510349acbfbb4fa62c0043af2b522
+      internalID: 1833346030934968906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250503f5527c8b469c46679424549ed
+      internalID: -1451056256943450455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d01519d593ba0c4cb18d37096a9e886
+      internalID: -7129228017841200786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94c3779f46d6ea4da72def06ccbadd2
+      internalID: 5948151457345882235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf9a9b8729e57a43ab5f44e7ab331fd
+      internalID: 8253077990382226415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533d56655df4ef9469295f24655ee874
+      internalID: -8016654024165963392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86177cc3e2fd735439c596dd2d39ff62
+      internalID: -7852050961636175688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f439139a12848340bf17ac5a18c2781
+      internalID: -2274524742700323013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d357e3f40580a4db38163a9e5e2f2a
+      internalID: 5589239846679819324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4713216e5f2cd8f4ca10cd5d2889a256
+      internalID: -7052802516898820202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: A_1-Pattern-Green-Grass-Sprite-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c386020b2cbe7014f9941ca2ef5f2452
+      internalID: -491847358560230218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
